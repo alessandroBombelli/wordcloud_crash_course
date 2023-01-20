@@ -8,3 +8,9 @@ To have a meaningful wordcloud, we wil ldo the following:
 * We will use all the words in the abstracts of such academic papers to generate out set of words (with some filtering)
 * We will use such set to generate our wordcloud. Since we are dealing with aviation, we will be generating our wordcloud in the shape of an aircraft
 * As an extra, we will also use some extra information retrieved from Scopus to analyze some trends in the academic literature pertaining sustainability in aviation
+
+This is the final outcome we want to achieve:
+
+![wordcloud](https://github.com/alessandroBombelli/wordcloud_crash_course/blob/main/wordcloud.png)
+
+https://github.com/alessandroBombelli/wordcloud_crash_course/blob/main/wordcloud.png
