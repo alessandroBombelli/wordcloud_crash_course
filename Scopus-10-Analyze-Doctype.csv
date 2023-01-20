@@ -1,0 +1,14 @@
+﻿Scopus-10-Analyze-Doctype
+
+"Your query : (TITLE-ABS-KEY(( ""air transport""  OR  aviation  OR  airports  OR  airlines )  AND  (sustainability OR sustainable)) AND ( LIMIT-TO ( DOCTYPE,""ar"" ) OR LIMIT-TO ( DOCTYPE,""cp"" ) OR LIMIT-TO ( DOCTYPE,""ch"" ) OR LIMIT-TO ( DOCTYPE,""re"" ) OR LIMIT-TO ( DOCTYPE,""cr"" ) OR LIMIT-TO ( DOCTYPE,""bk"" ) )  AND ( LIMIT-TO ( LANGUAGE,""English"" ) )  AND ( LIMIT-TO ( SRCTYPE,""j"" ) OR LIMIT-TO ( SRCTYPE,""p"" ) OR LIMIT-TO ( SRCTYPE,""k"" ) OR LIMIT-TO ( SRCTYPE,""b"" ) ) )"
+
+
+Number of results : 10
+
+"DOCUMENT TYPE",
+"Article","1946"
+"Conference Paper","1224"
+"Book Chapter","304"
+"Review","206"
+"Conference Review","135"
+"Book","67"

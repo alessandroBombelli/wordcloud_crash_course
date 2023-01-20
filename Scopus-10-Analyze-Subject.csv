@@ -1,0 +1,33 @@
+﻿Scopus-10-Analyze-Subject
+
+"Your query : (TITLE-ABS-KEY(( ""air transport""  OR  aviation  OR  airports  OR  airlines )  AND  (sustainability OR sustainable)) AND ( LIMIT-TO ( DOCTYPE,""ar"" ) OR LIMIT-TO ( DOCTYPE,""cp"" ) OR LIMIT-TO ( DOCTYPE,""ch"" ) OR LIMIT-TO ( DOCTYPE,""re"" ) OR LIMIT-TO ( DOCTYPE,""cr"" ) OR LIMIT-TO ( DOCTYPE,""bk"" ) )  AND ( LIMIT-TO ( LANGUAGE,""English"" ) )  AND ( LIMIT-TO ( SRCTYPE,""j"" ) OR LIMIT-TO ( SRCTYPE,""p"" ) OR LIMIT-TO ( SRCTYPE,""k"" ) OR LIMIT-TO ( SRCTYPE,""b"" ) ) )"
+
+
+Number of results : 10
+
+"SUBJECT AREA",
+"Engineering","1714"
+"Environmental Science","1083"
+"Social Sciences","1069"
+"Energy","993"
+"Business, Management and Accounting","640"
+"Computer Science","485"
+"Earth and Planetary Sciences","283"
+"Economics, Econometrics and Finance","264"
+"Chemical Engineering","228"
+"Physics and Astronomy","195"
+"Mathematics","189"
+"Materials Science","175"
+"Decision Sciences","162"
+"Chemistry","132"
+"Agricultural and Biological Sciences","118"
+"Medicine","71"
+"Biochemistry, Genetics and Molecular Biology","50"
+"Arts and Humanities","44"
+"Multidisciplinary","23"
+"Immunology and Microbiology","19"
+"Psychology","17"
+"Health Professions","3"
+"Neuroscience","3"
+"Pharmacology, Toxicology and Pharmaceutics","3"
+"Nursing","2"
